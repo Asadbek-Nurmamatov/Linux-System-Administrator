@@ -2,7 +2,7 @@
 
 Reja
 1 Linux tushunchalarini tushunish
- -Linux nima?
+ -<a href=''>Linux nima?</a>
 - Linuxdan kundalik foydalanish
 - Unix Linuxga qarshi
 - Viktorina, uy vazifasi va tarqatma materiallar
